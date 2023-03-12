@@ -1,2 +1,2 @@
-hkk.github.com
+hkk.github.io
 ==============
